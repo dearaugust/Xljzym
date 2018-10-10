@@ -168,9 +168,9 @@
 		<hotspot name="spot1" onhover="showtext('欢迎光临 晓林精致眼面',STYLE21);"
 		      style="hotspot_ani_Ahead" ath="21.817" atv="10.234" width="128" height="128" linkedscene="scene_02" />
 			  <hotspot name="spot1-1" onhover="showtext('学院路',STYLE21);"
-		      style="hotspot_ani_Style4" ath="-150" atv="0" width="128" height="128" linkedscene="scene_02" />
+		      style="hotspot_ani_Style4" ath="-150" atv="0" width="128" height="128" />
 			  <hotspot name="spot1-2" onhover="showtext('长虹道',STYLE21);"
-		      style="hotspot_ani_Style4" ath="90" atv="-1" width="128" height="128" linkedscene="scene_02" />
+		      style="hotspot_ani_Style4" ath="90" atv="-1" width="128" height="128" />
 
 	</scene>
 
